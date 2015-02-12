@@ -8,18 +8,34 @@ Just one thing: if you have never contributed to projects on Github, you should 
 ## Table of contents
 
 - How to get your content in here
-- Which markdown commands are ok? (TBD)
-- Language style guide (per language) (TBD)
-- hFiles and directories
+- Which markdown commands are ok?
+- Files, directories, and languages
+- Language and content style guide
+- Images and screenshots
 - How to discuss the content
 
-## how to get your content in here
+
+
+## How to get your content in here
+
+TBC
+
+- register
+- fork
+- branch
+- edit
+- pull request for each change
+- after the pull request don't edit the branch anymore and create a new one for the next changes.
+
+## Which markdown commands are ok?
 
 TBD
 
-## Files and directories
+## Files, directories, and languages
 
 TBD
+
+Each directory contains all the files used to display the help page in the different languages
 
 ### The directories
 
@@ -30,5 +46,24 @@ TBD
 ### The help files
 
 
+### Multiple languages
+
+- english is the default language
+- translations are post fixed with a 5 letters language code (`this-page.de_DE.md`)
+- images also can have a language code.
+
+
+## Language and content style guide
+
+TBC
+
+- a language style guide per language
+- we should try to stick to providing help on how to use Scribus and, where it's possible, avoid to disgress and start teaching the user the good habits in DTP (those should be in a separate manual...).
+
+## Images and screenshots
+
+- if Qt supports it, we should use animaged GIFs to improve the explainations (and keep them short). Cf. the Inkscape manual.
 
 ### The README files
+
+- each directory can -- and probably should -- have a `README.md` file with notes on the help page.
