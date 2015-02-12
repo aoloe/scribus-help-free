@@ -19,3 +19,6 @@ Ideas:
 - images also can have a language code.
 - provide a script that convert the markdown file and produces the file structure requested for the help files.
 - each directory can have a `README.md` file with notes on the page.
+
+Warning: please, don't copy content from the official Scribus Help files! The licenses are not compatible!  
+On the other side, you might get inspiration from the Scribus Flossmanual: <http://en.flossmanuals.net/scribus-2/>
