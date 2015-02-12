@@ -24,5 +24,5 @@ Ideas:
 
 Warning:
 
-please, don't copy content from the official Scribus Help files! The licenses are not compatible!  
+Please, don't copy content from the official Scribus Help files! The licenses are not compatible!  
 On the other side, you might get inspiration from the Scribus Flossmanual: <http://en.flossmanuals.net/scribus-2/>
