@@ -7,3 +7,4 @@ this file will contain:
 - how to name files
 - explaining the directory structure
 - how to discuss the content
+- how to get your content in here.
