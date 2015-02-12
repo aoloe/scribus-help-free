@@ -20,7 +20,7 @@ Ideas:
 - provide a script that convert the markdown file and produces the file structure requested for the help files.
 - each directory can have a `README.md` file with notes on the page.
 - if Qt supports it, we should use animaged GIFs to improve the explainations (and keep them short). Cf. the Inkscape manual.
-- we should try to stick to providing help on how to use Scribus and avoid, where it's possible, to disgress and teaching the user good habits in DTP (those should be in a separate manual...).
+- we should try to stick to providing help on how to use Scribus and, where it's possible, avoid to disgress and start teaching the user the good habits in DTP (those should be in a separate manual...).
 
 Warning:
 
