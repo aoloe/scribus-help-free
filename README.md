@@ -19,6 +19,7 @@ Ideas:
 - images also can have a language code.
 - provide a script that convert the markdown file and produces the file structure requested for the help files.
 - each directory can have a `README.md` file with notes on the page.
+- if Qt supports it, we should use animaged GIFs to improve the explainations (and keep them short). Cf. the Inkscape manual.
 
 Warning:
 
