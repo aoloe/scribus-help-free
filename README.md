@@ -8,3 +8,13 @@ The main goals of this project are:
 - that is easy to translate
 - that is more concise than the current documentation
 - that is free (cc-by-sa)
+
+Ideas:
+
+- one directory per help page
+- each directory contains all the files used to display the page in the different languages
+- work with markdown files
+- english is the default language
+- translations are post fixed with a 5 letters language code (`this-page.de_DE.md`)
+- images also can have a language code.
+- provide a script that convert the markdown file and produces the file structure requested for the help files.
