@@ -2,7 +2,7 @@ This Scribus help files have been created by:
 
 - Ale Rimoldi
 
-The help files contain content from the Flossmanuals [Scribus manual](http://en.flossmanuals.net/scribus-2/) by
+The help files contain content inspired by the Flossmanuals [Scribus manual](http://en.flossmanuals.net/scribus-2/) by
 
 - Camille Bissuel
 - Magaouata Dan Bourgami
@@ -12,3 +12,5 @@ The help files contain content from the Flossmanuals [Scribus manual](http://en.
 - Anne Goldenberg
 - Thibaut Hofer
 - Ale Rimoldi
+
+and translated into English and enhanced by Gregory Pittman.
