@@ -18,3 +18,4 @@ Ideas:
 - translations are post fixed with a 5 letters language code (`this-page.de_DE.md`)
 - images also can have a language code.
 - provide a script that convert the markdown file and produces the file structure requested for the help files.
+- each directory can have a `README.md` file with notes on the page.
