@@ -21,6 +21,7 @@ Ideas:
 - each directory can have a `README.md` file with notes on the page.
 - if Qt supports it, we should use animaged GIFs to improve the explainations (and keep them short). Cf. the Inkscape manual.
 - we should try to stick to providing help on how to use Scribus and, where it's possible, avoid to disgress and start teaching the user the good habits in DTP (those should be in a separate manual...).
+- we should probably start with a basic structure and content and then create a "1.4" branch and keep the master for the development version.
 
 Warning:
 
