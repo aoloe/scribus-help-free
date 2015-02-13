@@ -2,12 +2,86 @@
 - First steps
   - Starting with layouting
   - Starting with Scribus
+  - Learning to layout
   - Converting to Scribus
+- The user interface
+  - The menues
+  - The toolbar
+  - The palettes
+  - The properties palette
+  - The resource managers
+  - The status bar
+  - The context menu
+- A page oriented document
+  - Creating a document
+  - Adding pages
+  - Guides
+  - Grids
+  - The document information
+- ...
+  - Master pages
+  - Templates
+  - Scrapbook
+- Frames and shapes
+- Text frames
+  - Loading text files
+  - Typing the text
+  - Linking frames
+  - Formatting the text
+  - Typographic text formatting
+- Image frames
+  - Loading images
+  - Size of the images and frames
+  - Filters
+  - The picture browser
+- Importing vector images
+  - SVG
+  - PDF
+- Shapes
+  - Drawing a standard shape
+  - Polygon, arcs and spyrals
+  - Free form shapes and frames
+- Text formatting
+  - Paragraph and character styles
+  - Text color
+  - Bold and italics
+- Lines and borders
+- Colors
+  - Adding colors
+  - Border and fill
+  - Text color
+  - The color wheel
+  - Importing colors
+  - The color sets
+  - Color management
+- Fonts
+  - Adding fonts
+  - Bold and italics
+- Hyphenation and spelling check
+- Tables and tabulators
+- Formulas, Latex and render frames
+- Collaborating
+  - Collecting for output
+  - Importing from other software
+  - Exporting for other software
+- Printing and PDFs
+  - Printing from Scribus
+  - Exporting to PDF
+  - PDF versions
+  - The preflight verifier
+  - Embedding the fonts
+- Command line
+- Keyboard and mouse shorcuts
 - Scripting
   - Running a script
   - Writing a script
   - The scripter API
 - Community
+  - Further reading
   - Getting help
   - Reporting bugs
   - Contributing
+- Topics without a home
+  - Duplicating and multiple duplicating
+  - Layers
+  - Page numbers
