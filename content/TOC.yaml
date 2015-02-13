@@ -3,7 +3,7 @@
   - Starting with layouting
   - Starting with Scribus
   - Learning to layout
-  - Converting to Scribus
+  - Switching to Scribus
 - The user interface
   - The menues
   - The toolbar
@@ -12,17 +12,17 @@
   - The resource managers
   - The status bar
   - The context menu
-- A page oriented document
+- The document structure
   - Creating a document
   - Adding pages
   - Guides
   - Grids
   - The document information
+- Frames and shapes
 - ...
   - Master pages
-  - Templates
   - Scrapbook
-- Frames and shapes
+  - Templates
 - Text frames
   - Loading text files
   - Typing the text
@@ -54,9 +54,10 @@
   - Importing colors
   - The color sets
   - Color management
+- Gradients and transparency
 - Fonts
-  - Adding fonts
   - Bold and italics
+  - Adding fonts
 - Hyphenation and spelling check
 - Tables and tabulators
 - Formulas, Latex and render frames
@@ -64,12 +65,14 @@
   - Collecting for output
   - Importing from other software
   - Exporting for other software
+  - Merging files (PDFs or .SLA)
 - Printing and PDFs
   - Printing from Scribus
   - Exporting to PDF
   - PDF versions
   - The preflight verifier
   - Embedding the fonts
+  - Bleeds and crop marks
 - Command line
 - Keyboard and mouse shorcuts
 - Scripting
@@ -77,11 +80,12 @@
   - Writing a script
   - The scripter API
 - Community
-  - Further reading
+  - Further readings
   - Getting help
   - Reporting bugs
   - Contributing
 - Topics without a home
-  - Duplicating and multiple duplicating
+  - Duplicating (and multiple duplicating)
+  - Align and distribute
   - Layers
   - Page numbers

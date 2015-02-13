@@ -18,3 +18,10 @@
 - tiff
 - pngs
 - svg / eps
+
+## Finding free fonts
+
+## Looking for stock images
+
+- sites
+- licenses
