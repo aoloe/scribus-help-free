@@ -1,0 +1,3 @@
+- julius: "Gibt es einen Grund dafür, warum Bilder vorher in GIMP skaliert werden sollten?"
+- utnik: "das ist im prinzip richtig. nur kannst du in gimp noch unter verschiedenen algorithmen wählen und das resultat so beeinflussen. je nach bildinhalt und skalierungsfaktor ist für ein optimales resultat auch ein leichtes schärfen von kanten oder ähnliche nachbearbeitung angesagt."
+- dazu: nicht unnötig zu grosse datein hinzufügen.
