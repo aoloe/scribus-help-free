@@ -10,3 +10,4 @@
   - PP
   - rechtslick
 - Bildgrösse beim export
+- Ungenügend auflösungsmarke im bild / wie die mininimale auflösung einstellen.
