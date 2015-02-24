@@ -1,0 +1,1 @@
+- you have to make sure that your pdf viewer is not scaling the pdf to the printer margins... many pdf viewer do that and they also offer a checkbox somewher that let's you avoid it!
