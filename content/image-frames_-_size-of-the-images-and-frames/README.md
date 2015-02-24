@@ -9,3 +9,4 @@
 - frei skalieren und automatisch anpassen
   - PP
   - rechtslick
+- Bildgrösse beim export
