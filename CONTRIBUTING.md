@@ -66,6 +66,7 @@ TBC
 - Here some comments on how the Inkscape guys are creating their GIF-screencast:
   - <http://wiki.inkscape.org/wiki/index.php/CreatingScreencasts>
   - <http://thread.gmane.org/gmane.comp.graphics.inkscape.devel/44774>
+- [gimp and animated gifs](http://www.gimp.org/tutorials/Simple_Animations/)
 
 ### The README files
 
