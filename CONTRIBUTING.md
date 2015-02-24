@@ -63,6 +63,9 @@ TBC
 ## Images and screenshots
 
 - if Qt supports it, we should use animaged GIFs to improve the explainations (and keep them short). Cf. the Inkscape manual.
+- Here some comments on how the Inkscape guys are creating their GIF-screencast:
+  - <http://wiki.inkscape.org/wiki/index.php/CreatingScreencasts>
+  - <http://thread.gmane.org/gmane.comp.graphics.inkscape.devel/44774>
 
 ### The README files
 
