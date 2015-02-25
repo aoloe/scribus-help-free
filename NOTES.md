@@ -1,7 +1,7 @@
 # html output
 
 show a keyboard key with kbd
-~~
+~~~
 kbd {
     background-color: #f7f7f7;
     border: 1px solid #ccc;
@@ -18,4 +18,4 @@ kbd {
     white-space: nowrap;
 }
 <kdb>ctrl</kbd>
-~~
+~~~
