@@ -23,6 +23,9 @@ Concept:
 - we should try to stick to providing help on how to use Scribus and, where it's possible, avoid to disgress and start teaching the user the good habits in DTP (those should be in a separate manual...).
 - we should probably start with a basic structure and content and then create a "1.4" branch and keep the master for the development version.
 
+The result will be available as epub, website, and Scribus help files.
+
+
 Warning:
 
 Please, don't copy content from the official Scribus Help files! The licenses are not compatible!  
