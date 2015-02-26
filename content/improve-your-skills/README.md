@@ -20,6 +20,7 @@ It would be nice if each item would have a screenshot or an animated gif.
 - you can resize with the keyboard. hold down the alt key and use the arrows. alt + shift resizes in the opposite direction.
 - use guides.
 - if you want items to be at the same place on each page, add guides to the master page.
+- double clicking on an item in the album places it in the current page at its original place
 
 ## Work with others
 
