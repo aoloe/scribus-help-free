@@ -17,7 +17,7 @@ It would be nice if each item would have a screenshot or an animated gif.
 
 - rather than resizing with the mouse you can type exact measurements in the properties palette
 - you can move frames with the arrows on the keyboard. the shift key allows you to be more precise
-- you can resize with the keyboard. hold down the alt key and use the arrows. <kbb>alt</kbd> + <kbd><hift</kdb> resizes in the opposite direction.
+- you can resize with the keyboard. hold down the alt key and use the arrows. <kbd>alt</kbd> + <kbd><hift</kbd> resizes in the opposite direction.
 - use guides.
 - if you want items to be at the same place on each page, add guides to the master page.
 
