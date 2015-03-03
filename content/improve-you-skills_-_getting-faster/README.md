@@ -1,0 +1,1 @@
+- You can resize a frame in all directions. If you hold down the ctrl key, the proportions will be kept.
