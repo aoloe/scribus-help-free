@@ -19,3 +19,8 @@ kbd {
 }
 <kdb>ctrl</kbd>
 ~~~
+
+# content to be added
+
+- footnotes
+- marks
