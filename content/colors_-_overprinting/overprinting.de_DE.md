@@ -7,3 +7,5 @@ Das bedeutet also, wenn auf eine Lage Cyan eine Lage Gelb überdruckt wird, ergi
 Schwarze Schrift auf Farbe sollte eigentlich immer auf Überdrucken stehen, die meisten Druckereien machen das automatisch. So sollten an den Schriftkanten keine weissen «Blitzer» entstehen. Zu beachten gilt ausserdem, dass weisse Flächen nie auf Uberdrucken gestellt werden dürfen.
 
 Wichtig ist allerdings immer, dass vorgängig mit der Druckerei solche Fragen abgeklärt werden. Die meisten Druckereien stellen sich auf den Standpunkt, dass das eine grafische Angelegenheit ist, in die sie sich nicht einzumischen haben.
+
+Die Funktion "Überdruck" bezieht sich immer auf den gesamten Rahmen und dessen Inhalt.
