@@ -24,3 +24,17 @@ kbd {
 
 - footnotes
 - marks
+- non dtp work:
+  - interactive PDFs
+  - epub
+  - mail merging
+- render frames
+ 
+# building an index
+
+before each title we can put an html comment with index commands in it:
+
+    <!-- index: text frame; loading text; word; ODT; DOC -->
+    # Loading text
+
+We can then collect all the indexes and replace the comment with a `<a name=""></a>` inside of the title.
