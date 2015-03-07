@@ -11,3 +11,5 @@
   - rechtslick
 - Bildgrösse beim export
 - Ungenügend auflösungsmarke im bild / wie die mininimale auflösung einstellen.
+- 300ppi sind für die meisten Druckaufträge mehr als ausreichend, aber auch weit weniger ppi-Bildauflösung sollten einen nicht in Panik ausbrechen lassen, eben weil immer kommuniziert wird das eine Druckerei immer 300ppi verlangt.  
+  Je nach Bedruckstoff können auch schon mal Bildauflösungen um die 200ppi ausreichend sein, oder wenn es sich um ein Hintergrundbild handelt dann braucht man ebenfalls kein 300ppi-Bild. (antonio_mo @ scribus-user.de/forum)
