@@ -29,6 +29,8 @@ kbd {
   - epub
   - mail merging
 - render frames
+- units: ""just for your information: generally speaking i would not suggest you to work with cm. mm are -- generally speaking -- a better unit. i would also avoid pt.  
+  if you have to define some units in pt, i would suggest you to type them as is in the box and they will be automatically converted by scribus into the current unit. this works with most if not all measurement boxes.
  
 # building an index
 
