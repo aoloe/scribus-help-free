@@ -1,0 +1,6 @@
+- if you have transparencies, make sure that the printer supports them and use the right PDF version. scribus won't flatten them for you.
+- check with the printer if you should deliver RGB or CMYK colors. if you need CMYK, check with the printer which color profile you need for the output.
+- make sure that the images' resolution is not too small (and, if possible, not too high either)
+- make sure that all fonts are embedded or "outlined"
+- make sure that no text frame is overflowing
+- if possible, make sure that the preflight verifier does not show any error
