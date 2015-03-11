@@ -31,7 +31,10 @@ kbd {
 - render frames
 - units: ""just for your information: generally speaking i would not suggest you to work with cm. mm are -- generally speaking -- a better unit. i would also avoid pt.  
   if you have to define some units in pt, i would suggest you to type them as is in the box and they will be automatically converted by scribus into the current unit. this works with most if not all measurement boxes.
- 
+- add a section: "common errors, failures and bugs"
+  - Spell checking does not work: Check your preferences under Spelling (Hyphenation and Spelling) and see if it points to your /usr/share/myspell/your_language (en_US in my case) and check in fact that it is there.
+
+
 # building an index
 
 before each title we can put an html comment with index commands in it:
