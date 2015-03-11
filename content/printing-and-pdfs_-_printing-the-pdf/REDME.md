@@ -1,2 +1,3 @@
 - you have to make sure that your pdf viewer is not scaling the pdf to the printer margins... many pdf viewer do that and they also offer a checkbox somewher that let's you avoid it!
 - When printing from PDF there are usually a few settings in the PDF viewer that can affect the print. Scaling should be set to 100% (or None), often the default setting is "Scale to page" or "Shrink large pages". (nermander on scribus' forum)
+- If something is not showing up in the PDF, make sure that the layer where the item is, is set as printable.
