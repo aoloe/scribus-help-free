@@ -1,6 +1,6 @@
-# scribus-help-free
+# The Scribus free help files
 
-Set of Scribus help files that are under a free license and can be included in Linux distributions.
+A set of Scribus help files that are under a free license and can be included in Linux distributions.
 
 The main goals of this project are:
 
@@ -9,7 +9,7 @@ The main goals of this project are:
 - that is more concise than the current documentation
 - that is free (cc-by-sa)
 
-Concept:
+## Concept
 
 - one directory per help page
 - each directory contains all the files used to display the page in the different languages
