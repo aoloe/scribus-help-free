@@ -26,7 +26,13 @@ Concept:
 The result will be available as epub, website, and Scribus help files.
 
 
-Warning:
+## A warning
 
 Please, don't copy content from the official Scribus Help files! The licenses are not compatible!  
 On the other side, you might get inspiration from the Scribus Flossmanual: <http://en.flossmanuals.net/scribus-2/>
+
+## FAQ
+
+- Why this is not in the Scribus Wiki?
+  - We would like to have a redactional team and at the same time being open to all contributions: this is easier to achieve with the "fork / branch / pull request" model than a Wiki.
+  - We would like to produce a multilingual and structured work following some guidelines... not really the main focus of a Wiki...
