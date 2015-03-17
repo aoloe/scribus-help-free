@@ -51,6 +51,7 @@
   - Paragraph and character styles
   - Text color
   - Bold and italics
+  - Spaces
 - Lines and borders
 - Colors
   - Adding colors
@@ -68,6 +69,7 @@
   - Adding fonts
 - Hyphenation and spelling
 - Tables and tabulators
+- Columns
 - Formulas, Latex and render frames
 - Collaborating
   - Collecting for output
