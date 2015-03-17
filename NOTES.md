@@ -1,3 +1,5 @@
+# Notes
+
 ## html output
 
 show a keyboard key with kbd
@@ -34,6 +36,11 @@ kbd {
   if you have to define some units in pt, i would suggest you to type them as is in the box and they will be automatically converted by scribus into the current unit. this works with most if not all measurement boxes.
 - add a section: "common errors, failures and bugs"
   - Spell checking does not work: Check your preferences under Spelling (Hyphenation and Spelling) and see if it points to your /usr/share/myspell/your_language (en_US in my case) and check in fact that it is there.
+- page background color:
+  - La couleur de fond indique la couleur du papier utilisé : exemple jaune, tu imprimes sur du papier jaune. Mais tu n'imprimeras pas la couleur jaune, donc elle ne sera pas reprise dans la sortie. Pour le noir, c'est pareil. Pour imprimé un fond coloré tu mets une forme noire sous ton document et sur chacune des pages.
+Avec les calques et les modèles, c'est rapide.  
+Ne pas oublier de paramétrer les bords perdus pour éviter les mauvaises surprises à la sortie. (brunod sur linuxgraphic.org/forum)
+
 
 
 ## building an index
