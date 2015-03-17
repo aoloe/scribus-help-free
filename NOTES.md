@@ -1,4 +1,4 @@
-# html output
+## html output
 
 show a keyboard key with kbd
 ~~~
@@ -20,10 +20,11 @@ kbd {
 <kdb>ctrl</kbd>
 ~~~
 
-# content to be added
+## content to be added
 
 - footnotes
 - marks
+- table of contents
 - non dtp work:
   - interactive PDFs
   - epub
@@ -35,7 +36,7 @@ kbd {
   - Spell checking does not work: Check your preferences under Spelling (Hyphenation and Spelling) and see if it points to your /usr/share/myspell/your_language (en_US in my case) and check in fact that it is there.
 
 
-# building an index
+## building an index
 
 before each title we can put an html comment with index commands in it:
 
@@ -43,3 +44,10 @@ before each title we can put an html comment with index commands in it:
     # Loading text
 
 We can then collect all the indexes and replace the comment with a `<a name=""></a>` inside of the title.
+
+## Table of contents
+
+non, scribus n'a pas façon de créer une table des matière basée sur les styles.
+
+il y a façon de créer une table des matière automatique, mais vous ne voulez pas savoir comment ça marche.
+c'est une perte de temps et on est plus rapide à la main.
