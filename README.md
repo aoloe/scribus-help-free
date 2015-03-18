@@ -11,17 +11,23 @@ The main goals of this project are:
 
 ## Concept
 
-- one directory per help page
-- each directory contains all the files used to display the page in the different languages
-- text formatting uses markdown
+Content: 
+
+- focusing on what the user are looking for rather than on documenting every detail.
+- we should try to stick to providing help on how to use Scribus and, where it's possible, avoid to disgress and start teaching the user the good habits in DTP (those should be in a separate manual...).
+- we should probably start with a basic structure and content and then create a "1.4" branch and keep the master for the development version.
+
+Form:
+
+- one directory per help page.
+- each directory contains all the files used to display the page in the different languages.
+- text formatting uses markdown.
 - english is the default language (no language code) but the work can start in any language.
 - translations are post fixed with a 5 letters language code (`this-page.de_DE.md`)
 - images also can have a language code.
 - we will provide a script that convert the markdown file and produces the file structure requested for the help files.
 - each directory should have a `README.md` file with notes on the page.
 - if Qt supports it, we should use animaged GIFs to improve the explainations (and keep them short). Cf. the Inkscape manual.
-- we should try to stick to providing help on how to use Scribus and, where it's possible, avoid to disgress and start teaching the user the good habits in DTP (those should be in a separate manual...).
-- we should probably start with a basic structure and content and then create a "1.4" branch and keep the master for the development version.
 
 The result will be available as epub, website, and Scribus help files.
 
