@@ -40,7 +40,7 @@ kbd {
   - La couleur de fond indique la couleur du papier utilisé : exemple jaune, tu imprimes sur du papier jaune. Mais tu n'imprimeras pas la couleur jaune, donc elle ne sera pas reprise dans la sortie. Pour le noir, c'est pareil. Pour imprimé un fond coloré tu mets une forme noire sous ton document et sur chacune des pages.
 Avec les calques et les modèles, c'est rapide.  
 Ne pas oublier de paramétrer les bords perdus pour éviter les mauvaises surprises à la sortie. (brunod sur linuxgraphic.org/forum)
-
+- master pages: you can create a master page based on the current page (?). a master page is part of a scribus document. when you create a new document, you may import a masterpage from another document. (the third icon in the 'edit master pages' window…) (utnik, scribus/forum)
 
 
 ## building an index
