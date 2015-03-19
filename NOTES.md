@@ -49,7 +49,7 @@ Ne pas oublier de paramétrer les bords perdus pour éviter les mauvaises surpri
   - or you can put sample frames, with different styles and positions (and dummy text) in the scrapbook and double click on the matching item to get it inserted at the position it originally was. you can also put groups in the scrapbook.
   i would avoid the automatic frame creation, except if you plan to have many pages (more than 30) that all look the same and have the text flowing from one page to the next.  
   the script automation is fine if you have really lot of pages... or you like scripting your work (like i do :-)
-
+- gregp said: "In DTP, the most important person to satisfy is yourself, as far as the results are concerned. After that, you're mostly looking for efficient workflow."
 
 ## building an index
 
