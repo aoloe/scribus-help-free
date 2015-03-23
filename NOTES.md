@@ -55,6 +55,13 @@ Ne pas oublier de paramétrer les bords perdus pour éviter les mauvaises surpri
     - use master pages for the fixed content
     - the scrapbook for editable contents
     - use multiple duplicate
+  - i cannot edit the item
+    - you cannot edit items that are from a masterpage
+    - the item could be locked
+    - you're not on the right layer
+  - i cannot click on the item
+    - if the item is behind another item, use the ctrl-key to click on the items below
+    - 
 
 ## building an index
 
