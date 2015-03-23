@@ -50,6 +50,11 @@ Ne pas oublier de paramétrer les bords perdus pour éviter les mauvaises surpri
   i would avoid the automatic frame creation, except if you plan to have many pages (more than 30) that all look the same and have the text flowing from one page to the next.  
   the script automation is fine if you have really lot of pages... or you like scripting your work (like i do :-)
 - gregp said: "In DTP, the most important person to satisfy is yourself, as far as the results are concerned. After that, you're mostly looking for efficient workflow."
+- what if...
+  - i need the same content on many pages
+    - use master pages for the fixed content
+    - the scrapbook for editable contents
+    - use multiple duplicate
 
 ## building an index
 
