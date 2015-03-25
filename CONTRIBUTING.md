@@ -71,3 +71,8 @@ TBC
 ### The README files
 
 - each directory can -- and probably should -- have a `README.md` file with notes on the help page.
+
+# Screenshots
+
+- If possible the screenshot should not show the OS / window manager used when it has been taken
+- Remove the OS decoration and add a gray border `#b9b5b2`

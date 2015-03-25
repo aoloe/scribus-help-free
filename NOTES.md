@@ -54,14 +54,26 @@ Ne pas oublier de paramétrer les bords perdus pour éviter les mauvaises surpri
   - choose the UI language
   - choose the measurement unit (inch or mm)
   - always maximise the scribus window (except if you have a very large monitor)
-  - show the Properties Palette and put it on the right side of your document (in 1.5 it can be docked) and learn the F2 key to show and hide it.
-  - hide all the toolbars but the tools one
+  - show the Properties Palette and put it on the right side of your document (in 1.5 it can be docked) and learn the F2 key to show and hide it. Refrain from moving it from keeping moving it around.
+  - hide all the toolbars but the tools one and dock it to the left side.
   - setup the hyphenation
   - disable showing the startup dialog (mostly you're faster by typing ctr-o and ctr-n to open or create a new document)
   - enable snapping 
   - set ctrl-shift-p for producing a pdf and ctrl-alt-p for switching the preview mode
   - set the Preflight verifier to check for the most common PDF version for you. if in doubt choose 1.4 (really?).
-  should be i add a book on working with scribus, as an example with a list of software that can be used with it or places where you can find ressources (like images and co)?
+-  should be i add a book on working with scribus, as an example with a list of software that can be used with it or places where you can find ressources (like images and co)?
+- what if...
+  - i need the same content on many pages
+    - use master pages for the fixed content
+    - the scrapbook for editable contents
+    - use multiple duplicate
+  - i cannot edit the item
+    - you cannot edit items that are from a masterpage
+    - the item could be locked
+    - you're not on the right layer
+  - i cannot click on the item
+    - if the item is behind another item, use the ctrl-key to click on the items below
+    - 
 
 ## building an index
 
