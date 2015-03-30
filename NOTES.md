@@ -73,7 +73,12 @@ Ne pas oublier de paramétrer les bords perdus pour éviter les mauvaises surpri
     - you're not on the right layer
   - i cannot click on the item
     - if the item is behind another item, use the ctrl-key to click on the items below
-    - 
+  - i cannot upload my pdf to a printshop
+    - check that all fonts are embedded
+    - check that you chosed the correct PDF version in the preflight verifier
+    - check that you're producing the PDF version the print shop is requesting from you
+    - only use transparencies (PNGs with transparent background, gradients) if you're sure that the print shop supports them and process them correctly (if you don't have any warning when using PDF 1.3 in the preflight verifier, you don't have transparencies in your document)
+    - for pdf/x documents read https://en.wikipedia.org/wiki/PDF/X (generally, read the matching article on wikipedia... and we should provide a list of links)
 
 ## building an index
 
