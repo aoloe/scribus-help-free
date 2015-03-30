@@ -79,6 +79,7 @@ Ne pas oublier de paramétrer les bords perdus pour éviter les mauvaises surpri
     - check that you're producing the PDF version the print shop is requesting from you
     - only use transparencies (PNGs with transparent background, gradients) if you're sure that the print shop supports them and process them correctly (if you don't have any warning when using PDF 1.3 in the preflight verifier, you don't have transparencies in your document)
     - for pdf/x documents read https://en.wikipedia.org/wiki/PDF/X (generally, read the matching article on wikipedia... and we should provide a list of links)
+    - a nice link in german: https://wiki.piratenpartei.de/Druckerzeugnis
 
 ## building an index
 
