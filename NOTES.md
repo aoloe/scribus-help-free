@@ -81,8 +81,10 @@ Ne pas oublier de paramétrer les bords perdus pour éviter les mauvaises surpri
     - for pdf/x documents read https://en.wikipedia.org/wiki/PDF/X (generally, read the matching article on wikipedia... and we should provide a list of links)
     - a nice link in german: https://wiki.piratenpartei.de/Druckerzeugnis
   - scribus slows down
-    - if you have huge images, try to lower the display resolution (prefs or settings)
-    - use two directories with `images/` directories: `images-high` with full-res images and `images` with low-res ones with the same name. when preparing a pdf, close the document, rename the two directories and reopen the document.
+    - if you have huge images
+      - try to lower the display resolution (prefs or settings)
+      - use two directories with `images/` directories: `images-high` with full-res images and `images` with low-res ones with the same name. when preparing a pdf, close the document, rename the two directories and reopen the document.
+    - if you have long chains of text: break the chain after a few pages.
 - have a look to http://www.cgemy.com/galerie/docs/AideMemoireScribus.pdf 
 
 ## building an index
