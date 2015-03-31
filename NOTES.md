@@ -86,6 +86,7 @@ Ne pas oublier de paramétrer les bords perdus pour éviter les mauvaises surpri
       - in scribus 1.5svn you can enable the image cache (prefs or settings?)
       - use two directories with `images/` directories: `images-high` with full-res images and `images` with low-res ones with the same name. when preparing a pdf, close the document, rename the two directories and reopen the document.
     - if you have long chains of text: break the chain after a few pages.
+    - reduce the number of layers.
 - have a look to http://www.cgemy.com/galerie/docs/AideMemoireScribus.pdf 
 
 ## building an index
