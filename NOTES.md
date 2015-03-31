@@ -88,6 +88,7 @@ Ne pas oublier de paramétrer les bords perdus pour éviter les mauvaises surpri
     - if you have long chains of text: break the chain after a few pages.
     - reduce the number of layers.
 - have a look to http://www.cgemy.com/galerie/docs/AideMemoireScribus.pdf 
+- es ist möglich aber nicht wirklich zu empfehlen eine ganze seite zu skalieren. ctrl-a und dann beim ziehen die alt-taste drucken (und wenn möglich auch die ctrl-taste damit die verhältnisse weiterhin stimmen). theoretisch kann es funktionieren, in der praxis könnten details nicht stimmen. am einfachsten druckst du dein flyer skaliert. falls die bilder zu klein sind kannst du eine kopie der .sla datei anlegen, grössere bilder laden und ein neun a5-pdf produzieren. 
 
 ## building an index
 
