@@ -105,3 +105,9 @@ non, scribus n'a pas façon de créer une table des matière basée sur les styl
 
 il y a façon de créer une table des matière automatique, mais vous ne voulez pas savoir comment ça marche.
 c'est une perte de temps et on est plus rapide à la main.
+
+## Opening a file with missing fonts
+
+When you open a document that links to fonts not available on your system, Scribus allows you to temporarily substitute a missing font with a default font while keeping the original font name.  
+After getting the missing font, the doc can then be reopened with the real font  
+The green S means "temporarily substituted".
