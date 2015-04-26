@@ -35,7 +35,7 @@ kbd {
 - units: ""just for your information: generally speaking i would not suggest you to work with cm. mm are -- generally speaking -- a better unit. i would also avoid pt.  
   if you have to define some units in pt, i would suggest you to type them as is in the box and they will be automatically converted by scribus into the current unit. this works with most if not all measurement boxes.
 - add a section: "common errors, failures and bugs"
-  - Spell checking does not work: Check your preferences under Spelling (Hyphenation and Spelling) and see if it points to your /usr/share/myspell/your_language (en_US in my case) and check in fact that it is there.
+  - Spell checking does not work: Check your preferences under Spelling (Hyphenation and Spelling) and see if it points to your `/usr/share/myspell/your_language` (`en_US` in my case) and check in fact that it is there.
 - page background color:
   - La couleur de fond indique la couleur du papier utilisé : exemple jaune, tu imprimes sur du papier jaune. Mais tu n'imprimeras pas la couleur jaune, donc elle ne sera pas reprise dans la sortie. Pour le noir, c'est pareil. Pour imprimé un fond coloré tu mets une forme noire sous ton document et sur chacune des pages.
 Avec les calques et les modèles, c'est rapide.  
@@ -50,7 +50,7 @@ Ne pas oublier de paramétrer les bords perdus pour éviter les mauvaises surpri
   i would avoid the automatic frame creation, except if you plan to have many pages (more than 30) that all look the same and have the text flowing from one page to the next.  
   the script automation is fine if you have really lot of pages... or you like scripting your work (like i do :-)
 - gregp said: "In DTP, the most important person to satisfy is yourself, as far as the results are concerned. After that, you're mostly looking for efficient workflow."
-- setup the user interface:
+- setup the user interface: (only very short, for more details refer to the first steps document)
   - choose the UI language
   - choose the measurement unit (inch or mm)
   - always maximise the scribus window (except if you have a very large monitor)
@@ -89,6 +89,8 @@ Ne pas oublier de paramétrer les bords perdus pour éviter les mauvaises surpri
     - reduce the number of layers.
 - have a look to http://www.cgemy.com/galerie/docs/AideMemoireScribus.pdf 
 - es ist möglich aber nicht wirklich zu empfehlen eine ganze seite zu skalieren. ctrl-a und dann beim ziehen die alt-taste drucken (und wenn möglich auch die ctrl-taste damit die verhältnisse weiterhin stimmen). theoretisch kann es funktionieren, in der praxis könnten details nicht stimmen. am einfachsten druckst du dein flyer skaliert. falls die bilder zu klein sind kannst du eine kopie der .sla datei anlegen, grössere bilder laden und ein neun a5-pdf produzieren. 
+
+- page numbers: `insert > character > page number`; the page number has to be inserted in a text frame; a # is shown in a master page and it will be replaced buy the current value on each page; on a normal page you will directly see the current page number.
 
 ## building an index
 
