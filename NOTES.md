@@ -91,6 +91,7 @@ Ne pas oublier de paramétrer les bords perdus pour éviter les mauvaises surpri
 - es ist möglich aber nicht wirklich zu empfehlen eine ganze seite zu skalieren. ctrl-a und dann beim ziehen die alt-taste drucken (und wenn möglich auch die ctrl-taste damit die verhältnisse weiterhin stimmen). theoretisch kann es funktionieren, in der praxis könnten details nicht stimmen. am einfachsten druckst du dein flyer skaliert. falls die bilder zu klein sind kannst du eine kopie der .sla datei anlegen, grössere bilder laden und ein neun a5-pdf produzieren. 
 
 - page numbers: `insert > character > page number`; the page number has to be inserted in a text frame; a # is shown in a master page and it will be replaced buy the current value on each page; on a normal page you will directly see the current page number.
+- add a `scribus-manual-getting-scribus` with full details on how to get scribus; all versions, with explaination of the versions. a short description is in the first steps handbook.
 
 ## building an index
 

@@ -75,4 +75,4 @@ TBC
 # Screenshots
 
 - If possible the screenshot should not show the OS / window manager used when it has been taken
-- Remove the OS decoration and add a gray border `#b9b5b2`
+- Remove the OS decoration and add a gray border `#6a6864` (was `#b9b5b2`)
